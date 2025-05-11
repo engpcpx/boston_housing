@@ -1,19 +1,19 @@
-# 🏡 Predicting Boston Housing Prices
+# Predicting Boston Housing Prices
 
 **Project:** Boston Housing Prices  
 **Program:** Udacity Machine Learning Engineer Nanodegree  
 **Project Type:** Supervised Learning – Regression  
-**Status:** ✅ Completed
+**Status:** Completed
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves applying fundamental machine learning techniques to predict housing prices in Boston, Massachusetts. Utilizing a modified version of the Boston Housing dataset from the UCI Machine Learning Repository, the goal is to develop a model that accurately estimates the median value of owner-occupied homes based on various features.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - **Data Exploration:** Analyze the dataset to understand the distribution and relationships between features.
 - **Data Preprocessing:** Prepare the data for modeling by handling missing values, encoding categorical variables, and normalizing numerical features.
@@ -23,7 +23,7 @@ This project involves applying fundamental machine learning techniques to predic
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - `boston_housing.ipynb`: Jupyter Notebook containing the complete analysis, from data exploration to model evaluation.
 - `housing.csv`: Dataset file containing features and target variable.
@@ -32,7 +32,7 @@ This project involves applying fundamental machine learning techniques to predic
 
 ---
 
-## 🛠️ Technologies & Libraries
+## Technologies & Libraries
 
 - **Programming Language:** Python 2.7
 - **Libraries:**
@@ -46,7 +46,7 @@ This project involves applying fundamental machine learning techniques to predic
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the Repository:**
 
